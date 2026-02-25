@@ -1,0 +1,8 @@
+python-telegram-bot
+flask
+requests
+beautifulsoup4
+psutil
+pymongo
+dnspython
+certifi
